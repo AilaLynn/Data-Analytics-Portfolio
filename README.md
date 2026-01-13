@@ -10,9 +10,9 @@ The projects emphasize structured, process-driven analysis commonly found in gov
 This portfolio includes analytical work developed across multiple tools commonly used in private-sector, public-sector, and government-adjacent environments. Full project documentation, data sources, and methodologies are maintained within this GitHub repository, with interactive visualizations hosted on the platforms below.
 
 - **GitHub (Primary Portfolio Hub):** https://github.com/AilaLynn/Data-Analytics-Portfolio  
-- **Power BI:** Interactive dashboards developed for structured program performance and reporting use cases  
-- **Tableau Public:** https://public.tableau.com/app/profile/lynn.clemons/vizzes
-- **Kaggle:** https://www.kaggle.com/lynnclemons
+- **Power BI Projects:** Interactive dashboards developed for structured program performance and reporting use cases. https://github.com/AilaLynn/Data-Analytics-Portfolio/tree/main/PowerBI  
+- **Tableau Public Projects:** https://public.tableau.com/app/profile/lynn.clemons/vizzes
+- **Kaggle Projects:** https://www.kaggle.com/lynnclemons
 
 
 ## Featured Projects
