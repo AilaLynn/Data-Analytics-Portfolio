@@ -3,7 +3,17 @@
 Hi, I'm Lynn Clemons, an aspiring Data and BI Analyst based in Ozark, AL. I am currently completing my BSBA in Data Analytics and finalizing Google Data Analytics & Business Intelligence Certifications. My professional interest is in applying data analysis and business intelligence to public-sector and government-adjacent environments, particularly in roles that support oversight, accountability, and data-informed advisory work in the public interest. I am especially interested in analytical work aligned with federal evaluation and nonpartisan analysis, including long-term career paths related to organizations such as the U.S. Government Accountability Office (GAO).
 
 This repository demonstrates my ability to transform complex, structured datasets into clear, defensible insights using transparent methodologies. The projects here are designed to reflect the types of analytical work commonly used in government contracting, federal program management, and policy-support contexts, with an emphasis on accuracy, documentation, and interpretability rather than speed or automation.
-This repository also showcases my ability to turn complex datasets into actionable business insights, with a focus on structured, process-driven environments like government contracting and energy services.
+The projects emphasize structured, process-driven analysis commonly found in government contracting and other highly regulated environments.
+
+## Portfolio Platforms
+
+This portfolio includes analytical work developed across multiple tools commonly used in private-sector, public-sector, and government-adjacent environments. Full project documentation, data sources, and methodologies are maintained within this GitHub repository, with interactive visualizations hosted on the platforms below.
+
+- **GitHub (Primary Portfolio Hub):** https://github.com/AilaLynn/Data-Analytics-Portfolio  
+- **Power BI:** Interactive dashboards developed for structured program performance and reporting use cases  
+- **Tableau Public:** https://public.tableau.com/app/profile/lynn.clemons/vizzes
+- **Kaggle:** https://www.kaggle.com/lynnclemons
+
 
 ## Featured Projects
 
