@@ -18,7 +18,7 @@ This portfolio includes analytical work developed across multiple tools commonly
 ## Featured Projects
 
 ### Defense Program Cost & Schedule BI Dashboard  
-https://github.com/AilaLynn/Data-Analytics-Portfolio/tree/main/Defense-Program-Cost-Dashboard  
+https://github.com/AilaLynn/Data-Analytics-Portfolio/tree/main/PowerBI/Defense-Program-Cost-Dashboard
 
 **Tools:** Power BI, Excel, DAX  
 **Summary:** Developed a multi-page dashboard to monitor program cost, schedule, and performance metrics consistent with federal program management reporting.  
