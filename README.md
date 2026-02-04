@@ -18,6 +18,18 @@ This portfolio includes analytical work developed across multiple tools commonly
 
 ## Featured Projects
 
+## SaaS Subscription Churn & Cohort Analysis (Power BI)
+
+**Platform:** Power BI  
+**Data:** RavenStack Synthetic SaaS Dataset (Rivalytics)  
+**Focus:** Subscription lifecycle analysis, cohort behavior, churn patterns, revenue context
+
+This case study analyzes subscription behavior for a fictional SaaS platform using cohort-based retention logic, churn indicators, and revenue metrics. The project emphasizes business interpretation and executive-ready dashboards rather than purely statistical modeling.
+
+🔗 **Kaggle Notebook:**  https://www.kaggle.com/lynnclemons
+📊 **Power BI Dashboard:** https://www.kaggle.com/datasets/lynnclemons/saas-subscription-analytics-case-study-power-bi/data
+
+
 ### Defense Program Cost & Schedule BI Dashboard  
 https://github.com/AilaLynn/Data-Analytics-Portfolio/tree/main/PowerBI/Defense-Program-Cost-Dashboard
 
