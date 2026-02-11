@@ -33,19 +33,28 @@ Early drop-off patterns strongly correlate with long-term revenue instability.
 
 ## Dashboard Preview
 ### Executive Overview
+High-level view of total subscribers, churn rate, active MRR, and ARPU to understand overall performance across markets.
 ![Executive Overview](images/dashboard_01_executive_overview.png)
 
 ### Growth & Global Expansion
+Breakdown of subscriber growth and geographic expansion to see where momentum is building and where growth is slowing.
 ![Growth & Global Expansion](images/dashboard_02_growth_and_global_expansion.png)
 
 ### Churn Analysis
+Focused look at churn rates by plan and region to identify where retention declines are concentrated and where risk is highest.
 ![Churn Analysis](images/dashboard_03_churn_analysis.png)
 
 ### Revenue & ARPU
+Revenue trends and average revenue per user over time to understand how pricing and customer mix impact financial performance.
 ![Revenue & ARPU](images/dashboard_04_revenue_and_ARPU.png)
 
 ### Cohort Retention
+Cohort-based retention tracking to see how long customers stay active after signup and where early drop-off begins.
 ![Cohort Retention](images/dashboard_05_cohort_retention.png)
+
+## Why This Matters
+
+Churn and retention directly impact revenue stability and long-term growth. By identifying where customers drop off and which segments remain stable, teams can adjust pricing, engagement strategy, and onboarding efforts before revenue decline becomes visible at the top level. Clear retention analysis helps move decision-making from reactive to proactive.
 
 ## Files Included
 
